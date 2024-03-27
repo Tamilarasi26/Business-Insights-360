@@ -29,3 +29,7 @@ Putting the report online for everyone to access.
 Listening to feedback from different people and making changes based on that.
 
 Understanding and analyzing important numbers from sales, marketing, finance, and supply chain areas.
+
+
+
+Live PowerBI Dashboard Link:https://app.powerbi.com/view?r=eyJrIjoiYmY0NmYxYjYtNWNlMy00M2YxLTkxNDctYTg2OGU1ZjViYjU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
