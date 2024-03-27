@@ -1,7 +1,7 @@
 # Business-Insights-360
-***Project Summary:***
+****Project Summary:****
 
-*This project aims to create a single report that can be used by people in sales, marketing, finance, and executive roles. We focused on three main things:*
+***This project aims to create a single report that can be used by people in sales, marketing, finance, and executive roles. We focused on three main things:***
 
 Making sure the data is organized well.
 
@@ -10,7 +10,7 @@ Designing the report to be easy for everyone to use.
 Providing detailed information that people can explore further.
 
 
-*Here's what I learned during this project:*
+***Here's what I learned during this project:***
 
 How to work with data using Power Query.
 
